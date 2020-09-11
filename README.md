@@ -1,4 +1,5 @@
-# yuchenglan.github.io
+# Lan Group
+
 Researcher on energy and sensing
 
 * Team
