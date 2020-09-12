@@ -2,7 +2,7 @@
 
 ![logo](HoneyBee_1M.jpg)
 
-**Title:* 
+**Title:** 
   - Associate Professor of Physics
   - WeChat: yclan2014
   - Skype: yucheng.lan
@@ -16,10 +16,10 @@
 
 **Research Interests:**
 
-Renewable energy, nanosensing, electron microscopy, X-ray crystallography, and nanomaterials. The main interest is to synthesize nanomaterials and quantum materials, investigate phonon and electron transport at nanoscale using diffraction, imaging, and spectroscopies, and develop their applications in thermoelectrics, photovoltaics, electrocatalytics, and bio-/thermo-sensors.  
+Renewable energy, nanosensing, electron microscopy, X-ray crystallography, and nanomaterials/quantum materials. The main interest is to synthesize functional materials, investigate phonon and electron transport at nanoscale using diffraction/imaging/spectroscopies, and develop their applications in thermoelectrics/photovoltaics/electrocatalytics/sensors.  
 
 
-**Award**
+**Awards**
   - PI of DOE awards
   - co-PI of DTRA programs
   - PI of programs supported by University and companies
