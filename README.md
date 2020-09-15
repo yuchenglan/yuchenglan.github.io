@@ -6,7 +6,6 @@
   - Associate Professor of Physics
   - WeChat: yclan2014
   - Skype: yucheng.lan
-  - Zoom Meeting ID: 703 623 0026
   - Email: yclan2013@gmail.com
 
 **Education:**
