@@ -17,7 +17,7 @@
 
 **Research Interests:**
 
-Renewable energy, nanosensing, electron microscopy, X-ray crystallography, and nanomaterials/quantum materials. The main interest is to synthesize functional materials, characterize properties using diffraction/imaging/spectroscopies, investigate photon/electron/phonon transport at nanoscale, and develop their applications in thermoelectrics/photovoltaics/electrocatalytics/sensors.  
+Renewable energy, nanosensing, electron microscopy, X-ray crystallography, and nanomaterials / quantum materials. The main interest is to synthesize functional materials, characterize properties using diffraction / imaging / spectroscopies, investigate photon/electron / phonon transport at nanoscale, and develop their applications in thermoelectrics / photovoltaics / electrocatalytics / sensors.  
 
 
 **Awards**
