@@ -7,6 +7,8 @@
   - WeChat: yclan2014
   - Skype: yucheng.lan
   - Email: yclan2013@gmail.com
+  - ORCID: 0000-0002-6737-4168
+  - Web of Science ResearcherID: F-9501-2011
 
 **Education:**
   - Ph.D. Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, 1998
@@ -21,14 +23,13 @@ Renewable energy, nanosensing, electron microscopy, X-ray crystallography, and n
 **Awards**
   - PI of DOE awards
   - co-PI of DTRA programs
-  - PI of programs supported by University and companies
-  - Subawardee of ARL and DoED programs
-  - (co)Author of one book and 13 book chapters
-  - (co)Editor of two books
+  - PI of programs supported by Universities and companies
+  - Subawardee of ARL and DoED projects
+  - Editor of two books
   - Guest editor of two peer-reviewed journals
 
 
-**Selected Publications** (Total: 140, h-Index: 44, i10-index: 94, citations: 15,000) and [Citations](https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en)
+**Selected Publications** (Total: 140, h-Index: 44, i10-index: 96, citations: 15,000) and [Citations](https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en)
 
   - Jesse Dampare, Mobolaji Zondode, Sz-Chian Liou, Birol Ozturk, Hongtao Yu, and Yucheng Lan, EELS Investigations of Carbon-rich Boron Carbide Nanomaterials, _Microscopy & Microanalysis_ **24** (2018) 1756 – 1757.
   - Aiwu Wang, Li Fu, Chundong Wang, Winnie Wong-Ng, and Yucheng Lan, Recent Advances of Graphitic Carbon Nitride-Based Structures and Applications in Catalyst, Sensing, Imaging, and LEDs, _Nano-Micro Letters_ **9** (2017) 47-1 – 47-21
