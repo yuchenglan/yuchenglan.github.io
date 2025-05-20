@@ -11,13 +11,13 @@
   - Google Scholar: https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en
 
 **Education:**
-  - Ph.D. Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, 1998
-  - M.S. Solid State Physics, Department of Physics, Jilin University, 1995
-  - B.S. Solid State Physics, Department of Physics, Jilin University, 1992
+  - Ph.D.: Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, 1998
+  - M.S.: Solid State Physics, Department of Physics, Jilin University, 1995
+  - B.S.: Solid State Physics, Department of Physics, Jilin University, 1992
 
 **Research Interests:**
 
-Renewable energy, nanosensing, electron microscopy, X-ray crystallography, and nanomaterials / quantum materials. The main interest is to synthesize functional materials, characterize properties using diffraction / imaging / spectroscopies, investigate photon/electron / phonon transport at nanoscale, and develop their applications in thermoelectrics / photovoltaics / electrocatalytics / sensors.  
+Renewable energy, nanosensing, electron microscopy, X-ray crystallography, and nanomaterials / quantum materials. The main interest is to synthesize functional materials, characterize properties using diffraction / imaging / spectroscopies, investigate photon / electron / phonon transport at nanoscale, and develop their applications in thermoelectrics / photovoltaics / electrocatalytics / sensors.  
 
 
 **Awards**
