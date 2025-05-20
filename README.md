@@ -3,12 +3,12 @@
 ![logo](HoneyBee_1M.jpg)
 
 **Title:** 
-  - Associate Professor of Physics
+  - Professor of Physics and Engineering Physics
   - WeChat: yclan2014
-  - Skype: yucheng.lan
   - Email: yclan2013@gmail.com
   - ORCID: 0000-0002-6737-4168
   - Web of Science ResearcherID: F-9501-2011
+  - Google Scholar: https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en
 
 **Education:**
   - Ph.D. Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, 1998
@@ -21,7 +21,7 @@ Renewable energy, nanosensing, electron microscopy, X-ray crystallography, and n
 
 
 **Awards**
-  - PI of DOE / NSF awards
+  - PI of NSF / DOD /  DOE awards
   - co-PI of DTRA / DOD programs
   - PI of programs supported by Universities and companies
   - Subawardee of ARL and DoED projects
@@ -29,7 +29,7 @@ Renewable energy, nanosensing, electron microscopy, X-ray crystallography, and n
   - Guest editor of two peer-reviewed journals
 
 
-**Selected Publications** (Total: 150, h-Index: 46, i10-index: 100, citations: 17,000) and [Citations](https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en)
+**Selected Publications** (Total: 170, h-Index: 53, i10-index: 110, citations: 23,000) and [Citations](https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en)
 
   - Jesse Dampare, Mobolaji Zondode, Sz-Chian Liou, Birol Ozturk, Hongtao Yu, and Yucheng Lan, EELS Investigations of Carbon-rich Boron Carbide Nanomaterials, _Microscopy & Microanalysis_ **24** (2018) 1756 – 1757.
   - Aiwu Wang, Li Fu, Chundong Wang, Winnie Wong-Ng, and Yucheng Lan, Recent Advances of Graphitic Carbon Nitride-Based Structures and Applications in Catalyst, Sensing, Imaging, and LEDs, _Nano-Micro Letters_ **9** (2017) 47-1 – 47-21
